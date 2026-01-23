@@ -1,0 +1,6 @@
+title: "《論語雜論》"
+author: "jessekelighine.com"
+markdown: kramdown
+url: "https://jessekelighine.com"
+baseurl: "/confucianism-potpourri"
+permalink: /:year/:month/:day/:title/
