@@ -1,7 +1,7 @@
 ---
-layout: default
 title: "《論語雜論》"
 author: "<a href=\"https://jessekelighine.com\"><code>jessekelighine.com</code></a>"
+layout: default
 ---
 
 <nav id="TOC" role="doc-toc">
