@@ -1,3 +1,5 @@
+_posts/drafts/
+
 # Ruby
 Gemfile
 Gemfile.lock
@@ -16,5 +18,3 @@ _site/
 
 # OS/editor
 .DS_Store
-
-_posts/drafts.md
