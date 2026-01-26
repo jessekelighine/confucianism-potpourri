@@ -38,17 +38,18 @@ layout: default
 # 留言板 {#comments}
 
 <script src="https://giscus.app/client.js"
-        data-repo="jessekelighine/jessekelighine.github.io"
-        data-repo-id="R_kgDOLmNjDQ"
+        data-repo="jessekelighine/confucianism-potpourri"
+        data-repo-id="R_kgDOQ_3A1Q"
         data-category="General"
         data-category-id="DIC_kwDOLmNjDc4CmBxT"
-        data-mapping="pathname"
-        data-strict="1"
+        data-mapping="number"
+        data-term="1"
         data-reactions-enabled="0"
         data-emit-metadata="0"
         data-input-position="bottom"
         data-theme="light"
         data-lang="zh-TW"
+        data-loading="lazy"
         crossorigin="anonymous"
         async>
 </script>
